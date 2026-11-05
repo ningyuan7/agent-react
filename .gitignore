@@ -1,0 +1,13 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Credentials and local state
+.env
+.env.*
+data/
+*.log
